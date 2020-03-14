@@ -10,8 +10,8 @@ https://www-master.ufr-info-p6.jussieu.fr/parcours/ima.new/bima/
 * Extraction de primitives
 * Segmentation
 * Descripteurs d'image - similarité
-* ACP, Eigenfaces
-* ACP, Eigenfaces
+* ACP
+* Eigenfaces
 
 ### Binome:
 * Amine Djeghri
