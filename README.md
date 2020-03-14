@@ -1,7 +1,8 @@
 # UE BIMA (MU4II600) 
-gives fundamental knowledge in image processing 
+Aims to present the basic elements of probability and statistics for computer science.
+
 https://www-master.ufr-info-p6.jussieu.fr/parcours/ima.new/bima/
 
 ### Binome:
 * Amine Djeghri
-* Arthur Esquerre-Pourtère
+* Yacine Allouache
